@@ -2873,7 +2873,7 @@ input, select, textarea {
 			-ms-flex: 1;
 			flex: 1;
 			padding: 1.5em;
-			color: #ffffff;
+			color: #1f1f1f;
 			text-align: center;
 		}
 
@@ -3398,7 +3398,7 @@ input, select, textarea {
 			#main input[type="button"].primary,
 			#main button.primary,
 			#main .button.primary {
-				background-color: #8cc9f0;
+				background-color: #735793;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
@@ -3813,6 +3813,10 @@ input, select, textarea {
 
 #js {
 	left: .1em;
+}
+
+#toolkit {
+	font-size:1.2em;
 }
 
 
