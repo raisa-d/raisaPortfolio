@@ -1600,7 +1600,37 @@ input, select, textarea {
 }
 
 /* STYLING TOOLS/SKILL ICONS */
-#tools,
+.brand {
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display:flex;
+	flex-flow: column;
+	align-items:center;
+}
+
+#tools {
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display:flex;
+	justify-content:space-between;
+	width:70%;
+}
+
+@media screen and (max-width: 980px) {
+	#tools {
+		margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 470px) {
+	#tools {
+		width: 100%;
+	}
+}
+
+/* #tools,
 #tools-name {
 	display: -moz-flex;
 	display: -webkit-flex;
@@ -1626,10 +1656,10 @@ input, select, textarea {
 #css,
 #js {
 	position:relative;
-}
+} */
 
 /* centering python icon under name */
-#python,
+/* #python,
 #css {
 	left:.2em;
 }
@@ -1644,10 +1674,10 @@ input, select, textarea {
 
 #toolkit {
 	font-size:1.2em;
-}
+} */
 
 
-@media screen and (max-width: 980px) {
+/* @media screen and (max-width: 980px) {
 	#tools-section ul {
 		-moz-justify-content: center;
 		-webkit-justify-content: center;
@@ -1655,14 +1685,24 @@ input, select, textarea {
 		justify-content: center;
 	}
 
+	#python,
+	#git,
+	#css,
+	#js {
+		left: 0;
+		top: 0;
+		right: 0;
+		bottom:0;
+	}
+
 	#tools {
 		left: 0;
 	}
-}
+} */
 
-@media screen and (max-width:410px) {
+/* @media screen and (max-width:410px) { */
 	/* stack "my toolkit" */
-	#tools-name {
+	/* #tools-name {
 		display:none;
 	}
 
@@ -1695,4 +1735,4 @@ input, select, textarea {
 		left:0;
 	}
 
-}
+} */
