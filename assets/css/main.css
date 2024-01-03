@@ -916,7 +916,7 @@ input, select, textarea {
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 4em 5em 4em 5em ;
 		}
 
 			#header.alt h1 {
@@ -962,7 +962,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 6em 4em 3em 4em ;
+					padding: 4em 4em 3em 4em ;
 				}
 
 		}
@@ -974,7 +974,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 5em 3em 2em 3em ;
+					padding: 4em 3em 2em 3em ;
 				}
 
 		}
@@ -995,7 +995,7 @@ input, select, textarea {
 					}
 
 				#header.alt {
-					padding: 4em 2em 1em 2em ;
+					padding: 3em 2em 1em 2em ;
 				}
 
 					#header.alt h1 {
@@ -1011,7 +1011,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 4em 1.5em 1em 1.5em ;
+					padding: 3em 1.5em 1em 1.5em ;
 				}
 
 		}
@@ -1023,7 +1023,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 3.5em 1em 0.5em 1em ;
+					padding: 2.5em 1em 0.5em 1em ;
 				}
 
 		}
@@ -1608,7 +1608,6 @@ input, select, textarea {
 	display:flex;
 	margin: 0 0;
 	padding: 0 0;
-	/* justify-content:center; */
 }
 
 #tools li,
@@ -1650,6 +1649,50 @@ input, select, textarea {
 
 @media screen and (max-width: 980px) {
 	#tools-section ul {
-		justify-content:center;
+		-moz-justify-content: center;
+		-webkit-justify-content: center;
+		-ms-justify-content: center;
+		justify-content: center;
 	}
+
+	#tools {
+		left: 0;
+	}
+}
+
+@media screen and (max-width:410px) {
+	/* stack "my toolkit" */
+	#tools-name {
+		display:none;
+	}
+
+	#tools {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display:flex;
+
+		-moz-flex-direction: column-reverse;
+		-webkit-flex-direction: column-reverse;
+		-ms-flex-direction: column-reverse;
+		flex-direction: column-reverse;
+
+		-moz-justify-content: center;
+		-webkit-justify-content: center;
+		-ms-justify-content: center;
+		justify-content:center;
+
+		-moz-align-items:center;
+		-webkit-align-items:center;
+		-ms-align-items:center;
+		align-items:center;
+	}
+
+	#tools li,
+	#tools i {
+		padding: 0 0;
+		margin: 0 0;
+		left:0;
+	}
+
 }
