@@ -1595,10 +1595,6 @@ input, select, textarea {
 		margin: 0 auto;
 	}
 
-.project-pics {
-	width:90%;
-}
-
 /* STYLING TOOLS/SKILL ICONS */
 .brand {
 	display: -moz-flex;
