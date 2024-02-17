@@ -67,6 +67,12 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), linear-gradient(85deg, #e37682 15%, #5f4d93 85%);
 	}
 
+	/* border when hover over images */
+	.projects:hover {
+		border: 2px solid black;
+		border-radius: 15px;
+	}
+
 /* Type */
 
 	body {
