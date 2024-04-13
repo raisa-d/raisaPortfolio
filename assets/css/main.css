@@ -743,9 +743,6 @@ input, select, textarea {
 				background-color: #c79cc8;
 			}
 
-			/* .services li.style5 {
-				background-color: #efa8b0;
-			} */
 
 			/* size of li headers in Services section */
 			.style1 span, .style2 span, .style3 span, .style4 span {
@@ -1333,23 +1330,23 @@ input, select, textarea {
 		}
 
 		#main ::-webkit-input-placeholder {
-			color: rgba(99, 99, 99, 0.25) !important;
+			color: rgba(99, 99, 99, 0.8) !important;
 		}
 
 		#main :-moz-placeholder {
-			color: rgba(99, 99, 99, 0.25) !important;
+			color: rgba(99, 99, 99, 0.8) !important;
 		}
 
 		#main ::-moz-placeholder {
-			color: rgba(99, 99, 99, 0.25) !important;
+			color: rgba(99, 99, 99, 0.8) !important;
 		}
 
 		#main :-ms-input-placeholder {
-			color: rgba(99, 99, 99, 0.25) !important;
+			color: rgba(99, 99, 99, 0.8) !important;
 		}
 
 		#main .formerize-placeholder {
-			color: rgba(99, 99, 99, 0.25) !important;
+			color: rgba(99, 99, 99, 0.8) !important;
 		}
 
 		#main .icon.major {
