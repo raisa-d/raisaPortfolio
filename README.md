@@ -35,7 +35,7 @@ Welcome to my software engineering portfolio! Here you'll find a collection of m
 <p>In future optimizations, I am going to change the way the projects are displayed under "My Work"/"Latest Projects." I will also be including a dark mode that will change based on the user's computer settings.</p>
 
 ## Lessons Learned
-<p>I learned that working with a pre-existing codebase is tricky! It is super important to be utilizing version control always, but especially when you are working with another engineers' code.</p>
+<p>Getting into customizing the template really showed me the nitty-gritty of HTML, CSS, and JavaScript. I had to tweak the code to fit exactly what I wanted my site to look and act like & seamlessly incorporate new features. Then, using Git to handle all the changes and updates taught me how crucial it is to keep everything organized, especially when working with other engineers' code. The experience of working within the pre-existing template boosted my problem-solving skills and made me think more about how code interacts.</p>
 
 ## Credits
 <ul>
