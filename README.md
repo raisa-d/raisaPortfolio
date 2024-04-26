@@ -29,7 +29,7 @@ Welcome to my software engineering portfolio! Here you'll find a collection of m
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-<p>I used HTML5, CSS3, and JavaScript to create my portfolio website by customizing a template.</p>
+<p>I used my intricate knowledge of HTML5, CSS3, and JavaScript to create my portfolio website by tailoring a template to exactly what I wanted to express: my projects, services, about me, and the ability to contact me.</p>
 
 ## Optimizations
 <p>In future optimizations, I am going to change the way the projects are displayed under "My Work"/"Latest Projects." I will also be including a dark mode that will change based on the user's computer settings.</p>
