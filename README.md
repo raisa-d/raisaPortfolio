@@ -26,7 +26,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-<p>I used my intricate knowledge of HTML5, CSS3, and JavaScript to create my portfolio website by tailoring a template to exactly what I wanted to express: my projects, services, about me, and the ability to contact me.</p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
+<ul>
+  <li>Front end: HTML5, CSS3, JavaScript</li>
+  <li>Version Control: Git</li>
+  <li>Design: HTML5UP</li>
+</ul>
 
 ## Optimizations
 <p>In future optimizations, I am going to change the way the projects are displayed under "My Work"/"Latest Projects." I will also be including a dark mode that will change based on the user's computer settings.</p>
