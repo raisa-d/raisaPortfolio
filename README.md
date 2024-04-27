@@ -7,17 +7,14 @@
 <p align="center">
 	<img width="900" alt="Raisa Dorzback Website Across Devices" src="https://github.com/raisa-d/100DevsHomework/assets/144272001/69ba68ad-e678-499d-bb5a-378baf069950">
 </p>
+<p>Welcome to my software engineering portfolio! Here you'll find a collection of my recent projects, demonstrating my skills and expertise in building websites & web applications. From creating sleek and responsive websites to developing dynamic applications with API integrations, I strive to deliver high-quality solutions that meet user needs and exceed expectations. My portfolio includes projects, links to said projects & their GitHub repositories, and ways to get in contact with me.</p>
 
 ## Table of Contents
-- [Description](#description)
 - [Technologies Used](#technologies-used)
 - [Optimizations](#optimizations)
 - [Lessons Learned](#lessons-learned)
 - [Credits](#credits)
 - [Contact](#contact)
-
-## Description
-Welcome to my software engineering portfolio! Here you'll find a collection of my recent projects, demonstrating my skills and expertise in building websites & web applications. From creating sleek and responsive websites to developing dynamic applications with API integrations, I strive to deliver high-quality solutions that meet user needs and exceed expectations. My portfolio includes projects, links to said projects & their GitHub repositories, and ways to get in contact with me.
 
 ## Technologies Used
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -35,7 +32,7 @@ Welcome to my software engineering portfolio! Here you'll find a collection of m
 <p>In future optimizations, I am going to change the way the projects are displayed under "My Work"/"Latest Projects." I will also be including a dark mode that will change based on the user's computer settings.</p>
 
 ## Lessons Learned
-<p>Getting into customizing the template really showed me the nitty-gritty of HTML, CSS, and JavaScript. I had to tweak the code to fit exactly what I wanted my site to look and act like & seamlessly incorporate new features. Then, using Git to handle all the changes and updates taught me how crucial it is to keep everything organized, especially when working with other engineers' code. The experience of working within the pre-existing template boosted my problem-solving skills and made me think more about how code interacts.</p>
+<p>Customizing the template really showed me the nitty-gritty of HTML, CSS, and JavaScript. I had to tweak the code to fit exactly what I wanted my site to look and act like & seamlessly incorporate new features with an existing codebase. It was very important to use Git for version control, especially when working with other engineers' code. The experience of working within the codebase boosted my problem-solving skills and critical thinking it takes to understand someone else's coding style.</p>
 
 ## Credits
 <ul>
